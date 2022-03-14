@@ -2,7 +2,7 @@ package demoGit;
 
 import org.testng.annotations.Test;
 
-public class Contacttest {
+public class ContactTest {
 	@Test
 	public void contacts()
 	{

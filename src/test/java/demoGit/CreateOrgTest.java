@@ -15,6 +15,7 @@ public class CreateOrgTest {
 		System.out.println("Merge user3");
 	}
 	
+	@Test
 	public void createContact()
 	{
 		System.out.println("create Org");
