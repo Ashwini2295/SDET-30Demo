@@ -2,7 +2,7 @@ package demoGit;
 
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class CreateOrgTest {
 	@Test
 	public void createOrg()
 	{
