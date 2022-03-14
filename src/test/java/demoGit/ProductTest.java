@@ -1,5 +1,11 @@
 package demoGit;
 
-public class ProductTest {
+import org.testng.annotations.Test;
 
+public class ProductTest {
+@Test
+public void product()
+{
+	System.out.println("Productsssss");
+}
 }
