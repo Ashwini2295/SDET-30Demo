@@ -7,6 +7,9 @@ public class CreateOrgTest {
 	public void createOrg()
 	{
 		System.out.println("User1 - First commit");
+		System.out.println("User1 - First commit");
+		System.out.println("User1 - First commit");
+		
 		
 		
 		
