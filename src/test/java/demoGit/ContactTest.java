@@ -7,6 +7,8 @@ public class ContactTest {
 	public void contacts()
 	{
 		System.out.println("Create contact");
+		
+		System.out.println("Create contact 222");
 	}
 
 }
